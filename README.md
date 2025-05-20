@@ -61,11 +61,11 @@ RAG, LangChain, Anthropic Claude, HuggingFace, OpenAI SDK, Anaconda, Android Stu
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://yashkumarsingh.tech"><img src="icon.ico" height="32" alt="Portfolio"/></a>
-  <a href="https://instagram.com/yash.kumar.singh.30"><img src="https://skillicons.dev/icons?i=instagram" height="32" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/celestial0"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/></a>
-  <a href="https://x.com/Celestial_Yash"><img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X"/></a>
-  <a href="mailto:yashkumarsingh@ieee.org"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/></a>
+  <a href="https://yashkumarsingh.tech" style="margin: 0 12px;"><img src="icon.ico" height="62" alt="Portfolio"/></a>
+  <a href="https://instagram.com/yash.kumar.singh.30" style="margin: 0 12px;"><img src="https://skillicons.dev/icons?i=instagram" height="62" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/celestial0" style="margin: 0 12px;"><img src="https://skillicons.dev/icons?i=linkedin" height="62" alt="LinkedIn"/></a>
+  <a href="https://x.com/Celestial_Yash" style="margin: 0 12px;"><img src="https://skillicons.dev/icons?i=twitter" height="62" alt="X"/></a>
+  <a href="mailto:yashkumarsingh@ieee.org" style="margin: 0 12px;"><img src="https://skillicons.dev/icons?i=gmail" height="62" alt="Email"/></a>
 </p>
 
 # 💻 Tech Stack:
