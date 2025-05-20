@@ -1,3 +1,4 @@
+![Tech Stack Banner](main.png)
 # Hey There! 👋
 **I'm Yash Kumar Singh** - I'm a fullstack developer and maker based in **India**. I work on a variety of projects in my free time, from **mobile and web apps** to **backend systems** and **automation projects**.
 
